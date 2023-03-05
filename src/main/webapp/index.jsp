@@ -124,7 +124,7 @@
                             <h1 style="font-size: 28px; font-weight: 400; margin: 2;">Builds in DevOps</h1> 
                             <img src=" https://img.icons8.com/clouds/100/000000/handshake.png" width="125" height="120" style="display: block; border: 0px;" />
                             <p style="font-size:15px">You have built a java application.</p>
-                            <p style="font-size:20px">Congratulations</p>
+                            <p style="font-size:20px">Congratulations Serah</p>
                         </td>
                     </tr>
                 </table>
